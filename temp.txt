@@ -1,0 +1,10 @@
+ O volume na unidade G ‚ Google Drive
+ O N£mero de S‚rie do Volume ‚ 1983-1116
+
+ Pasta de G:\Meu Drive\testes-git
+
+18/11/2021  11:35    <DIR>          .
+18/11/2021  10:38    <DIR>          ..
+18/11/2021  11:35               120 temp.txt
+               1 arquivo(s)            120 bytes
+               2 pasta(s)   15.694.856.192 bytes dispon¡veis
